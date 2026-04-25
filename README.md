@@ -1,5 +1,8 @@
 # THE AI-ERA PRODUCT MANAGEMENT MANIFESTO
 
+**Executive Summary:** This repository contains the tactical frameworks and open-source artifacts for the Manifesto. For the full philosophical deep-dive and to join the community, **[Read & Subscribe on Substack](https://theaiproductmanager.io)**.
+
+---
 We are uncovering better ways of building products now that intelligent systems are part of our toolkit. The traditional Product Development Lifecycle (PDLC) is obsolete. We have leaped from deterministic software to probabilistic AI and agentic workflows, and our operational model must evolve to match that reality.
 
 Through this leap, we have come to value:
@@ -40,9 +43,10 @@ For B2B licensing, enterprise architecture audits, or advisory engagements, conn
 
 🌐 **Website:** [theaiproductmanager.io](https://theaiproductmanager.io)
 📰 **Newsletter:** [theaiproductmanager42.substack.com](https://theaiproductmanager42.substack.com)
-📬 **Email:** `theaiproductmanager@gmail.com`
 💼 **LinkedIn:** [The AI Product Manager](https://www.linkedin.com/in/theaiproductmanager/) 
 📱 **TikTok:** [@theaiproductmanager](https://www.tiktok.com/@theaiproductmanager)
+🐦 X (Twitter): @theaipm42 
+📬 **Email:** `theaiproductmanager@gmail.com`
 
 ---
 
